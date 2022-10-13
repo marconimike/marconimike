@@ -16,17 +16,22 @@
     <img height="30px" align="center" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="30px" align="center" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img height="30px" align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+        
 </div> 
 
 
 
-### Automações, segurança, S.O ...
+###  Segurança, automações, S.O ...
 
 
 <div style= "display: inline_block"><br/>
     <img height="30px" align="center" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height="30px" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    <img height="30px" align="center" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img height="30px" align="center" alt="Kali linux" src="https://www.kali.org/images/kali-logo.svg" />
     <img height="30px" align="center" alt="Rad Hat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+    <img height="30px" align="center" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img height="30px" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    <img height="30px" align="center" alt="Nmap" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />   
     
 </div> <br><br>
 
